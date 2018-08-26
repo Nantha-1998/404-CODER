@@ -1,0 +1,14 @@
+Requirements :
+Libraries to be Installed..................
+pandas
+numpy
+sklearn
+matplotlib
+sklearn
+xgboost
+seaborn
+
+Algorithms used:::::::::::
+	KNN Algorithm
+	XgBooster
+	Label Encoding
